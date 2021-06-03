@@ -1,0 +1,101 @@
+suject,session,trials,category,target,rp,,critical_cat,critical_target,critical_rp
+2105,1,1,UNITS OF DISTANCE,nautical mile,n _ _ _ _ _ _ _ _ _ _ _ _,,,,
+2105,1,2,FOOTBALL TEAMS,giants,g _ _ _ _ _,,,,
+2105,1,3,NATURAL EARTH FORMATIONS,gorge,g _ _ _ _,,,,
+2105,1,4,FLOWERS,gladiola,g _ _ _ _ _ _ _,,,,
+2105,1,5,UNITS OF TIME,nanosecond,n _ _ _ _ _ _ _ _ _,,,,
+2105,1,6,PRECIOUS STONES,jade,j _ _ _,,PRECIOUS STONES,jade,j _ _ _
+2105,1,7,SCIENCES,virology,v _ _ _ _ _ _ _,,SCIENCES,virology,v _ _ _ _ _ _ _
+2105,1,8,KITCHEN TOOLS,ladle,l _ _ _ _,,KITCHEN TOOLS,ladle,l _ _ _ _
+2105,1,9,SPORTS,racquetball,r _ _ _ _ _ _ _ _ _ _,,SPORTS,racquetball,r _ _ _ _ _ _ _ _ _ _
+2105,1,10,SEASONINGS,paprika,p _ _ _ _ _ _,,SEASONINGS,paprika,p _ _ _ _ _ _
+2105,1,11,STATES,idaho,i _ _ _ _,,STATES,idaho,i _ _ _ _
+2105,1,12,FABRICS,cashmere,c _ _ _ _ _ _ _,,FABRICS,cashmere,c _ _ _ _ _ _ _
+2105,1,13,CITIES,atlanta,a _ _ _ _ _ _,,CITIES,atlanta,a _ _ _ _ _ _
+2105,1,14,SOURCES OF FUEL,kerosene,k _ _ _ _ _ _ _,,SOURCES OF FUEL,kerosene,k _ _ _ _ _ _ _
+2105,1,15,BODY PARTS,wrist,w _ _ _ _,,BODY PARTS,wrist,w _ _ _ _
+2105,1,16,VEGETABLES,spinach,s _ _ _ _ _ _,,VEGETABLES,spinach,s _ _ _ _ _ _
+2105,1,17,INSECTS,flea,f _ _ _,,INSECTS,flea,f _ _ _
+2105,1,18,FISH,herring,h _ _ _ _ _ _,,FISH,herring,h _ _ _ _ _ _
+2105,1,19,FRUIT,blueberry,b _ _ _ _ _ _ _ _,,FRUIT,blueberry,b _ _ _ _ _ _ _ _
+2105,1,20,BIRDS,ostrich,o _ _ _ _ _ _,,BIRDS,ostrich,o _ _ _ _ _ _
+2105,1,21,TREES,evergreen,e _ _ _ _ _ _ _ _,,TREES,evergreen,e _ _ _ _ _ _ _ _
+2105,1,22,TRANSPORTATION,train,t _ _ _ _,,TRANSPORTATION,train,t _ _ _ _
+2105,1,23,FOUR-FOOTED ANIMALS,donkey,d _ _ _ _ _,,FOUR-FOOTED ANIMALS,donkey,d _ _ _ _ _
+2105,1,24,COLLEGES,georgetown,g _ _ _ _ _ _ _ _ _,,,,
+2105,1,25,BOY NAMES,greg,g _ _ _,,,,
+2105,2,1,COLLEGES,university of michigan,u _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _,,,,
+2105,2,2,RELIGIOUS BUILDINGS,monastery,m _ _ _ _ _ _ _ _,,,,
+2105,2,3,GIRL NAMES,michelle,m _ _ _ _ _ _ _,,,,
+2105,2,4,MILITARY TITLES,marshal,m _ _ _ _ _ _,,,,
+2105,2,5,FOOTWEAR,flip flops,f _ _ _ _ _ _ _ _ _,,,,
+2105,2,6,FABRICS,denim,d _ _ _ _,,FABRICS,denim,d _ _ _ _
+2105,2,7,FISH,goldfish,g _ _ _ _ _ _ _,,FISH,goldfish,g _ _ _ _ _ _ _
+2105,2,8,CAR MODELS,civic,c _ _ _ _,,CAR MODELS,civic,c _ _ _ _
+2105,2,9,OCCUPATIONS,pharmacist,p _ _ _ _ _ _ _ _ _,,OCCUPATIONS,pharmacist,p _ _ _ _ _ _ _ _ _
+2105,2,10,FOUR-FOOTED ANIMALS,rat,r _ _,,FOUR-FOOTED ANIMALS,rat,r _ _
+2105,2,11,SOURCES OF FUEL,oil,o _ _,,SOURCES OF FUEL,oil,o _ _
+2105,2,12,CITIES,atlanta,a _ _ _ _ _ _,,CITIES,atlanta,a _ _ _ _ _ _
+2105,2,13,BIRDS,woodpecker,w _ _ _ _ _ _ _ _ _,,BIRDS,woodpecker,w _ _ _ _ _ _ _ _ _
+2105,2,14,SEASONINGS,ketchup,k _ _ _ _ _ _,,SEASONINGS,ketchup,k _ _ _ _ _ _
+2105,2,15,CARPENTRY TOOLS,vise,v _ _ _,,CARPENTRY TOOLS,vise,v _ _ _
+2105,2,16,SHIPS,barge,b _ _ _ _,,SHIPS,barge,b _ _ _ _
+2105,2,17,COLORS,indigo,i _ _ _ _ _,,COLORS,indigo,i _ _ _ _ _
+2105,2,18,DWELLINGS,townhouse,t _ _ _ _ _ _ _ _,,DWELLINGS,townhouse,t _ _ _ _ _ _ _ _
+2105,2,19,TRANSPORTATION,jet,j _ _,,TRANSPORTATION,jet,j _ _
+2105,2,20,CLOTHES,shorts,s _ _ _ _ _,,CLOTHES,shorts,s _ _ _ _ _
+2105,2,21,BUILDING PARTS,hallway,h _ _ _ _ _ _,,BUILDING PARTS,hallway,h _ _ _ _ _ _
+2105,2,22,GEOGRAPHY TERMS,lake,l _ _ _,,GEOGRAPHY TERMS,lake,l _ _ _
+2105,2,23,STATES,nebraska,n _ _ _ _ _ _ _,,STATES,nebraska,n _ _ _ _ _ _ _
+2105,2,24,BOY NAMES,eric,e _ _ _,,,,
+2105,2,25,FLOWERS,magnolia,m _ _ _ _ _ _ _,,,,
+2105,3,1,GIRL NAMES,elizabeth,e _ _ _ _ _ _ _ _,,,,
+2105,3,2,COLLEGES,u chicago,u _ _ _ _ _ _ _ _,,,,
+2105,3,3,FOOTWEAR,galoshes,g _ _ _ _ _ _ _,,,,
+2105,3,4,UNITS OF TIME,eon,e _ _,,,,
+2105,3,5,CURRENCIES,euro,e _ _ _,,,,
+2105,3,6,INSECTS,hornet,h _ _ _ _ _,,INSECTS,hornet,h _ _ _ _ _
+2105,3,7,OCCUPATIONS,nurse,n _ _ _ _,,OCCUPATIONS,nurse,n _ _ _ _
+2105,3,8,ELEMENTS,fluorine,f _ _ _ _ _ _ _,,ELEMENTS,fluorine,f _ _ _ _ _ _ _
+2105,3,9,SPORTS,badminton,b _ _ _ _ _ _ _ _,,SPORTS,badminton,b _ _ _ _ _ _ _ _
+2105,3,10,CAR MODELS,volkswagen,v _ _ _ _ _ _ _ _ _,,CAR MODELS,volkswagen,v _ _ _ _ _ _ _ _ _
+2105,3,11,SEASONINGS,sugar,s _ _ _ _,,SEASONINGS,sugar,s _ _ _ _
+2105,3,12,FRUIT,papaya,p _ _ _ _ _,,FRUIT,papaya,p _ _ _ _ _
+2105,3,13,BODY PARTS,torso,t _ _ _ _,,BODY PARTS,torso,t _ _ _ _
+2105,3,14,COUNTRIES,italy,i _ _ _ _,,COUNTRIES,italy,i _ _ _ _
+2105,3,15,BUILDING PARTS,wing,w _ _ _,,BUILDING PARTS,wing,w _ _ _
+2105,3,16,GEOGRAPHY TERMS,ocean,o _ _ _ _,,GEOGRAPHY TERMS,ocean,o _ _ _ _
+2105,3,17,CLOTHES,dress,d _ _ _ _,,CLOTHES,dress,d _ _ _ _
+2105,3,18,SHIPS,kayak,k _ _ _ _,,SHIPS,kayak,k _ _ _ _
+2105,3,19,COLORS,mauve,m _ _ _ _,,COLORS,mauve,m _ _ _ _
+2105,3,20,FOUR-FOOTED ANIMALS,raccoon,r _ _ _ _ _ _,,FOUR-FOOTED ANIMALS,raccoon,r _ _ _ _ _ _
+2105,3,21,FABRICS,lace,l _ _ _,,FABRICS,lace,l _ _ _
+2105,3,22,BIRDS,chicken,c _ _ _ _ _ _,,BIRDS,chicken,c _ _ _ _ _ _
+2105,3,23,MUSIC STYLES,alternative,a _ _ _ _ _ _ _ _ _ _,,MUSIC STYLES,alternative,a _ _ _ _ _ _ _ _ _ _
+2105,3,24,BOY NAMES,jack,j _ _ _,,,,
+2105,3,25,DANCES,electric slide,e _ _ _ _ _ _ _ _ _ _ _ _ _,,,,
+2105,4,1,GIRL NAMES,katherine,k _ _ _ _ _ _ _ _,,,,
+2105,4,2,COLLEGES,uc berkeley,u _ _ _ _ _ _ _ _ _ _,,,,
+2105,4,3,BOY NAMES,larry,l _ _ _ _,,,,
+2105,4,4,CURRENCIES,franc,f _ _ _ _,,,,
+2105,4,5,FLOWERS,lily,l _ _ _,,,,
+2105,4,6,GEOGRAPHY TERMS,volcano,v _ _ _ _ _ _,,GEOGRAPHY TERMS,volcano,v _ _ _ _ _ _
+2105,4,7,SOURCES OF FUEL,petrol,p _ _ _ _ _,,SOURCES OF FUEL,petrol,p _ _ _ _ _
+2105,4,8,COUNTRIES,switzerland,s _ _ _ _ _ _ _ _ _ _,,COUNTRIES,switzerland,s _ _ _ _ _ _ _ _ _ _
+2105,4,9,TRANSPORTATION,jet,j _ _,,TRANSPORTATION,jet,j _ _
+2105,4,10,TREES,elm,e _ _,,TREES,elm,e _ _
+2105,4,11,CLOTHES,raincoat,r _ _ _ _ _ _ _,,CLOTHES,raincoat,r _ _ _ _ _ _ _
+2105,4,12,OCCUPATIONS,grocer,g _ _ _ _ _,,OCCUPATIONS,grocer,g _ _ _ _ _
+2105,4,13,SEASONINGS,herbs,h _ _ _ _,,SEASONINGS,herbs,h _ _ _ _
+2105,4,14,SHIPS,motorboat,m _ _ _ _ _ _ _ _,,SHIPS,motorboat,m _ _ _ _ _ _ _ _
+2105,4,15,MUSIC STYLES,alternative,a _ _ _ _ _ _ _ _ _ _,,MUSIC STYLES,alternative,a _ _ _ _ _ _ _ _ _ _
+2105,4,16,ELEMENTS,calcium,c _ _ _ _ _ _,,ELEMENTS,calcium,c _ _ _ _ _ _
+2105,4,17,BIRDS,owl,o _ _,,BIRDS,owl,o _ _
+2105,4,18,DWELLINGS,igloo,i _ _ _ _,,DWELLINGS,igloo,i _ _ _ _
+2105,4,19,CAR MODELS,nissan,n _ _ _ _ _,,CAR MODELS,nissan,n _ _ _ _ _
+2105,4,20,BODY PARTS,bone,b _ _ _,,BODY PARTS,bone,b _ _ _
+2105,4,21,CITIES,denver,d _ _ _ _ _,,CITIES,denver,d _ _ _ _ _
+2105,4,22,FRUIT,watermelon,w _ _ _ _ _ _ _ _ _,,FRUIT,watermelon,w _ _ _ _ _ _ _ _ _
+2105,4,23,PRECIOUS STONES,topaz,t _ _ _ _,,PRECIOUS STONES,topaz,t _ _ _ _
+2105,4,24,BEVERAGES,fruit punch,f _ _ _ _ _ _ _ _ _ _,,,,
+2105,4,25,DANCES,line dance,l _ _ _ _ _ _ _ _ _,,,,

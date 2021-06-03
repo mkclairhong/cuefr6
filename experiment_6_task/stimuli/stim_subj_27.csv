@@ -1,0 +1,101 @@
+session,category,target,rp,,critical_cat,critical_target,critical_rp
+1,UNITS OF TIME,week,w _ _ _,,,,
+1,COLLEGES,yale,y _ _ _,,,,
+1,BOY NAMES,jason,j _ _ _ _,,,,
+1,GIRL NAMES,lynne,l _ _ _ _,,,,
+1,DANCES,jitterbug,j _ _ _ _ _ _ _ _,,,,
+1,CAR MODELS,ferrari,f _ _ _ _ _ _,,CAR MODELS,ferrari,f _ _ _ _ _ _
+1,FOUR-FOOTED ANIMALS,donkey,d _ _ _ _ _,,FOUR-FOOTED ANIMALS,donkey,d _ _ _ _ _
+1,SOURCES OF FUEL,kerosene,k _ _ _ _ _ _ _,,SOURCES OF FUEL,kerosene,k _ _ _ _ _ _ _
+1,TRANSPORTATION,carriage,c _ _ _ _ _ _ _,,TRANSPORTATION,carriage,c _ _ _ _ _ _ _
+1,SEASONINGS,herbs,h _ _ _ _,,SEASONINGS,herbs,h _ _ _ _
+1,VEGETABLES,zucchini,z _ _ _ _ _ _ _,,VEGETABLES,zucchini,z _ _ _ _ _ _ _
+1,BUILDING PARTS,rafters,r _ _ _ _ _ _,,BUILDING PARTS,rafters,r _ _ _ _ _ _
+1,TREES,elm,e _ _,,TREES,elm,e _ _
+1,WEATHER TERMS,typhoon,t _ _ _ _ _ _,,WEATHER TERMS,typhoon,t _ _ _ _ _ _
+1,FRUIT,nectarine,n _ _ _ _ _ _ _ _,,FRUIT,nectarine,n _ _ _ _ _ _ _ _
+1,OCCUPATIONS,physicist,p _ _ _ _ _ _ _ _,,OCCUPATIONS,physicist,p _ _ _ _ _ _ _ _
+1,CITIES,atlanta,a _ _ _ _ _ _,,CITIES,atlanta,a _ _ _ _ _ _
+1,CARPENTRY TOOLS,sander,s _ _ _ _ _,,CARPENTRY TOOLS,sander,s _ _ _ _ _
+1,COUNTRIES,greece,g _ _ _ _ _,,COUNTRIES,greece,g _ _ _ _ _
+1,INSTRUMENTS,viola,v _ _ _ _,,INSTRUMENTS,viola,v _ _ _ _
+1,BIRDS,owl,o _ _,,BIRDS,owl,o _ _
+1,STATES,mississippi,m _ _ _ _ _ _ _ _ _ _,,STATES,mississippi,m _ _ _ _ _ _ _ _ _ _
+1,SPORTS,bowling,b _ _ _ _ _ _,,SPORTS,bowling,b _ _ _ _ _ _
+1,FOOTWEAR,ice skates,i _ _ _ _ _ _ _ _ _,,,,
+1,GARDEN TOOLS,wheel barrow,w _ _ _ _ _ _ _ _ _ _ _,,,,
+2,BOY NAMES,nate,n _ _ _,,,,
+2,FOOTWEAR,flip flops,f _ _ _ _ _ _ _ _ _,,,,
+2,UNITS OF DISTANCE,nautical mile,n _ _ _ _ _ _ _ _ _ _ _ _,,,,
+2,UNITS OF TIME,fortnight,f _ _ _ _ _ _ _ _,,,,
+2,MEMBERS OF THE CLERGY,friar,f _ _ _ _,,,,
+2,TREES,eucalyptus,e _ _ _ _ _ _ _ _ _,,TREES,eucalyptus,e _ _ _ _ _ _ _ _ _
+2,SHIPS,rowboat,r _ _ _ _ _ _,,SHIPS,rowboat,r _ _ _ _ _ _
+2,FRUIT,pineapple,p _ _ _ _ _ _ _ _,,FRUIT,pineapple,p _ _ _ _ _ _ _ _
+2,SPORTS,bowling,b _ _ _ _ _ _,,SPORTS,bowling,b _ _ _ _ _ _
+2,CAR MODELS,lamborghini,l _ _ _ _ _ _ _ _ _ _,,CAR MODELS,lamborghini,l _ _ _ _ _ _ _ _ _ _
+2,INSTRUMENTS,viola,v _ _ _ _,,INSTRUMENTS,viola,v _ _ _ _
+2,MUSIC STYLES,alternative,a _ _ _ _ _ _ _ _ _ _,,MUSIC STYLES,alternative,a _ _ _ _ _ _ _ _ _ _
+2,ELEMENTS,magnesium,m _ _ _ _ _ _ _ _,,ELEMENTS,magnesium,m _ _ _ _ _ _ _ _
+2,FISH,swordfish,s _ _ _ _ _ _ _ _,,FISH,swordfish,s _ _ _ _ _ _ _ _
+2,BODY PARTS,teeth,t _ _ _ _,,BODY PARTS,teeth,t _ _ _ _
+2,CLOTHES,hat,h _ _,,CLOTHES,hat,h _ _
+2,SOURCES OF FUEL,oil,o _ _,,SOURCES OF FUEL,oil,o _ _
+2,INSECTS,grasshopper,g _ _ _ _ _ _ _ _ _ _,,INSECTS,grasshopper,g _ _ _ _ _ _ _ _ _ _
+2,STATES,wyoming,w _ _ _ _ _ _,,STATES,wyoming,w _ _ _ _ _ _
+2,READING MATERIALS,journal,j _ _ _ _ _ _,,READING MATERIALS,journal,j _ _ _ _ _ _
+2,GEOGRAPHY TERMS,island,i _ _ _ _ _,,GEOGRAPHY TERMS,island,i _ _ _ _ _
+2,TOYS,doll,d _ _ _,,TOYS,doll,d _ _ _
+2,COUNTRIES,china,c _ _ _ _,,COUNTRIES,china,c _ _ _ _
+2,GIRL NAMES,kristen,k _ _ _ _ _ _,,,,
+2,COLLEGES,usc,u _ _,,,,
+3,COLLEGES,ucla,u _ _ _,,,,
+3,BOY NAMES,michael,m _ _ _ _ _ _,,,,
+3,﻿BEVERAGES,root beer,r _ _ _ _ _ _ _ _,,,,
+3,DANCES,mambo,m _ _ _ _,,,,
+3,RELIGIOUS BUILDINGS,mosque,m _ _ _ _ _,,,,
+3,SOURCES OF FUEL,coal,c _ _ _,,SOURCES OF FUEL,coal,c _ _ _
+3,BODY PARTS,hip,h _ _,,BODY PARTS,hip,h _ _
+3,COLORS,beige,b _ _ _ _,,COLORS,beige,b _ _ _ _
+3,FISH,piranha,p _ _ _ _ _ _,,FISH,piranha,p _ _ _ _ _ _
+3,SHIPS,kayak,k _ _ _ _,,SHIPS,kayak,k _ _ _ _
+3,CAR MODELS,nissan,n _ _ _ _ _,,CAR MODELS,nissan,n _ _ _ _ _
+3,COUNTRIES,italy,i _ _ _ _,,COUNTRIES,italy,i _ _ _ _
+3,FOUR-FOOTED ANIMALS,deer,d _ _ _,,FOUR-FOOTED ANIMALS,deer,d _ _ _
+3,INSECTS,grasshopper,g _ _ _ _ _ _ _ _ _ _,,INSECTS,grasshopper,g _ _ _ _ _ _ _ _ _ _
+3,STATES,louisiana,l _ _ _ _ _ _ _ _,,STATES,louisiana,l _ _ _ _ _ _ _ _
+3,TREES,willow,w _ _ _ _ _,,TREES,willow,w _ _ _ _ _
+3,FURNITURE,futon,f _ _ _ _,,FURNITURE,futon,f _ _ _ _
+3,INSTRUMENTS,tambourine,t _ _ _ _ _ _ _ _ _,,INSTRUMENTS,tambourine,t _ _ _ _ _ _ _ _ _
+3,CARPENTRY TOOLS,sandpaper,s _ _ _ _ _ _ _ _,,CARPENTRY TOOLS,sandpaper,s _ _ _ _ _ _ _ _
+3,TRANSPORTATION,jet,j _ _,,TRANSPORTATION,jet,j _ _
+3,ELEMENTS,aluminum,a _ _ _ _ _ _ _,,ELEMENTS,aluminum,a _ _ _ _ _ _ _
+3,SEASONINGS,oregano,o _ _ _ _ _ _,,SEASONINGS,oregano,o _ _ _ _ _ _
+3,BUILDING PARTS,elevator,e _ _ _ _ _ _ _,,BUILDING PARTS,elevator,e _ _ _ _ _ _ _
+3,UNITS OF TIME,millisecond,m _ _ _ _ _ _ _ _ _ _,,,,
+3,GIRL NAMES,melissa,m _ _ _ _ _ _,,,,
+4,FLOWERS,orchid,o _ _ _ _ _,,,,
+4,BOY NAMES,andrew,a _ _ _ _ _,,,,
+4,GIRL NAMES,linda,l _ _ _ _,,,,
+4,DANCES,line dance,l _ _ _ _ _ _ _ _ _,,,,
+4,PARTS OF SPEECH,adverb,a _ _ _ _ _,,,,
+4,INSECTS,centipede,c _ _ _ _ _ _ _ _,,INSECTS,centipede,c _ _ _ _ _ _ _ _
+4,GEOGRAPHY TERMS,waterfall,w _ _ _ _ _ _ _ _,,GEOGRAPHY TERMS,waterfall,w _ _ _ _ _ _ _ _
+4,ELEMENTS,magnesium,m _ _ _ _ _ _ _ _,,ELEMENTS,magnesium,m _ _ _ _ _ _ _ _
+4,FOUR-FOOTED ANIMALS,turtle,t _ _ _ _ _,,FOUR-FOOTED ANIMALS,turtle,t _ _ _ _ _
+4,CAR MODELS,volkswagen,v _ _ _ _ _ _ _ _ _,,CAR MODELS,volkswagen,v _ _ _ _ _ _ _ _ _
+4,FABRICS,fleece,f _ _ _ _ _,,FABRICS,fleece,f _ _ _ _ _
+4,READING MATERIALS,booklet,b _ _ _ _ _ _,,READING MATERIALS,booklet,b _ _ _ _ _ _
+4,DWELLINGS,shack,s _ _ _ _,,DWELLINGS,shack,s _ _ _ _
+4,TREES,eucalyptus,e _ _ _ _ _ _ _ _ _,,TREES,eucalyptus,e _ _ _ _ _ _ _ _ _
+4,FRUIT,nectarine,n _ _ _ _ _ _ _ _,,FRUIT,nectarine,n _ _ _ _ _ _ _ _
+4,SEASONINGS,garlic,g _ _ _ _ _,,SEASONINGS,garlic,g _ _ _ _ _
+4,CLOTHES,jacket,j _ _ _ _ _,,CLOTHES,jacket,j _ _ _ _ _
+4,SHIPS,kayak,k _ _ _ _,,SHIPS,kayak,k _ _ _ _
+4,CITIES,dallas,d _ _ _ _ _,,CITIES,dallas,d _ _ _ _ _
+4,COLORS,indigo,i _ _ _ _ _,,COLORS,indigo,i _ _ _ _ _
+4,FURNITURE,recliner,r _ _ _ _ _ _ _,,FURNITURE,recliner,r _ _ _ _ _ _ _
+4,FISH,halibut,h _ _ _ _ _ _,,FISH,halibut,h _ _ _ _ _ _
+4,OCCUPATIONS,psychologist,p _ _ _ _ _ _ _ _ _ _ _,,OCCUPATIONS,psychologist,p _ _ _ _ _ _ _ _ _ _ _
+4,CURRENCIES,lira,l _ _ _,,,,
+4,MILITARY TITLES,admiral,a _ _ _ _ _ _,,,,

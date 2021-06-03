@@ -1,0 +1,101 @@
+session,category,target,rp,,critical_cat,critical_target,critical_rp
+1,GIRL NAMES,elizabeth,e _ _ _ _ _ _ _ _,,,,
+1,COLLEGES,ucla,u _ _ _,,,,
+1,BOY NAMES,ed,e _,,,,
+1,CURRENCIES,lira,l _ _ _,,,,
+1,DANCES,electric slide,e _ _ _ _ _ _ _ _ _ _ _ _ _,,,,
+1,COUNTRIES,peru,p _ _ _,,COUNTRIES,peru,p _ _ _
+1,FOUR-FOOTED ANIMALS,sheep,s _ _ _ _,,FOUR-FOOTED ANIMALS,sheep,s _ _ _ _
+1,STATES,iowa,i _ _ _,,STATES,iowa,i _ _ _
+1,BIRDS,hummingbird,h _ _ _ _ _ _ _ _ _ _,,BIRDS,hummingbird,h _ _ _ _ _ _ _ _ _ _
+1,SCIENCES,anthropology,a _ _ _ _ _ _ _ _ _ _ _,,SCIENCES,anthropology,a _ _ _ _ _ _ _ _ _ _ _
+1,INSECTS,dragonfly,d _ _ _ _ _ _ _ _,,INSECTS,dragonfly,d _ _ _ _ _ _ _ _
+1,DWELLINGS,cabin,c _ _ _ _,,DWELLINGS,cabin,c _ _ _ _
+1,ELEMENTS,nitrogen,n _ _ _ _ _ _ _,,ELEMENTS,nitrogen,n _ _ _ _ _ _ _
+1,CLOTHES,jacket,j _ _ _ _ _,,CLOTHES,jacket,j _ _ _ _ _
+1,CAR MODELS,volvo,v _ _ _ _,,CAR MODELS,volvo,v _ _ _ _
+1,COLORS,maroon,m _ _ _ _ _,,COLORS,maroon,m _ _ _ _ _
+1,FRUIT,blueberry,b _ _ _ _ _ _ _ _,,FRUIT,blueberry,b _ _ _ _ _ _ _ _
+1,SOURCES OF FUEL,oil,o _ _,,SOURCES OF FUEL,oil,o _ _
+1,OCCUPATIONS,farmer,f _ _ _ _ _,,OCCUPATIONS,farmer,f _ _ _ _ _
+1,BUILDING PARTS,wing,w _ _ _,,BUILDING PARTS,wing,w _ _ _
+1,SPORTS,racquetball,r _ _ _ _ _ _ _ _ _ _,,SPORTS,racquetball,r _ _ _ _ _ _ _ _ _ _
+1,TRANSPORTATION,trolley,t _ _ _ _ _ _,,TRANSPORTATION,trolley,t _ _ _ _ _ _
+1,FISH,goldfish,g _ _ _ _ _ _ _,,FISH,goldfish,g _ _ _ _ _ _ _
+1,GARDEN TOOLS,lawnmower,l _ _ _ _ _ _ _ _,,,,
+1,MEMBERS OF THE CLERGY,elder,e _ _ _ _,,,,
+2,BOY NAMES,zach,z _ _ _,,,,
+2,COLLEGES,uc berkeley,u _ _ _ _ _ _ _ _ _ _,,,,
+2,FOOTBALL TEAMS,giants,g _ _ _ _ _,,,,
+2,GIRL NAMES,linda,l _ _ _ _,,,,
+2,FOOTWEAR,loafers,l _ _ _ _ _ _,,,,
+2,SHIPS,ferry,f _ _ _ _,,SHIPS,ferry,f _ _ _ _
+2,BUILDING PARTS,roof,r _ _ _,,BUILDING PARTS,roof,r _ _ _
+2,STATES,hawaii,h _ _ _ _ _,,STATES,hawaii,h _ _ _ _ _
+2,FOUR-FOOTED ANIMALS,moose,m _ _ _ _,,FOUR-FOOTED ANIMALS,moose,m _ _ _ _
+2,INSECTS,dragonfly,d _ _ _ _ _ _ _ _,,INSECTS,dragonfly,d _ _ _ _ _ _ _ _
+2,CLOTHES,scarf,s _ _ _ _,,CLOTHES,scarf,s _ _ _ _
+2,CAR MODELS,audi,a _ _ _,,CAR MODELS,audi,a _ _ _
+2,WEATHER TERMS,clouds,c _ _ _ _ _,,WEATHER TERMS,clouds,c _ _ _ _ _
+2,COUNTRIES,iraq,i _ _ _,,COUNTRIES,iraq,i _ _ _
+2,SEASONINGS,tabasco,t _ _ _ _ _ _,,SEASONINGS,tabasco,t _ _ _ _ _ _
+2,BIRDS,parakeet,p _ _ _ _ _ _ _,,BIRDS,parakeet,p _ _ _ _ _ _ _
+2,TREES,elm,e _ _,,TREES,elm,e _ _
+2,ELEMENTS,nitrogen,n _ _ _ _ _ _ _,,ELEMENTS,nitrogen,n _ _ _ _ _ _ _
+2,OCCUPATIONS,janitor,j _ _ _ _ _ _,,OCCUPATIONS,janitor,j _ _ _ _ _ _
+2,KITCHEN TOOLS,whisk,w _ _ _ _,,KITCHEN TOOLS,whisk,w _ _ _ _
+2,CARPENTRY TOOLS,vise,v _ _ _,,CARPENTRY TOOLS,vise,v _ _ _
+2,CITIES,orlando,o _ _ _ _ _ _,,CITIES,orlando,o _ _ _ _ _ _
+2,MUSIC STYLES,blues,b _ _ _ _,,MUSIC STYLES,blues,b _ _ _ _
+2,UNITS OF TIME,generation,g _ _ _ _ _ _ _ _ _,,,,
+2,FLOWERS,lily,l _ _ _,,,,
+3,COLLEGES,duke,d _ _ _,,,,
+3,BOY NAMES,kyle,k _ _ _,,,,
+3,CURRENCIES,deutschmark,d _ _ _ _ _ _ _ _ _ _,,,,
+3,FLOWERS,dandelion,d _ _ _ _ _ _ _ _,,,,
+3,FOOTBALL TEAMS,vikings,v _ _ _ _ _ _,,,,
+3,FOUR-FOOTED ANIMALS,wolf,w _ _ _,,FOUR-FOOTED ANIMALS,wolf,w _ _ _
+3,SEASONINGS,thyme,t _ _ _ _,,SEASONINGS,thyme,t _ _ _ _
+3,STATES,louisiana,l _ _ _ _ _ _ _ _,,STATES,louisiana,l _ _ _ _ _ _ _ _
+3,INSTRUMENTS,clarinet,c _ _ _ _ _ _ _,,INSTRUMENTS,clarinet,c _ _ _ _ _ _ _
+3,SPORTS,rugby,r _ _ _ _,,SPORTS,rugby,r _ _ _ _
+3,CITIES,boston,b _ _ _ _ _,,CITIES,boston,b _ _ _ _ _
+3,FRUIT,grape,g _ _ _ _,,FRUIT,grape,g _ _ _ _
+3,FURNITURE,futon,f _ _ _ _,,FURNITURE,futon,f _ _ _ _
+3,SOURCES OF FUEL,nuclear,n _ _ _ _ _ _,,SOURCES OF FUEL,nuclear,n _ _ _ _ _ _
+3,BIRDS,hawk,h _ _ _,,BIRDS,hawk,h _ _ _
+3,CLOTHES,jacket,j _ _ _ _ _,,CLOTHES,jacket,j _ _ _ _ _
+3,OCCUPATIONS,professor,p _ _ _ _ _ _ _ _,,OCCUPATIONS,professor,p _ _ _ _ _ _ _ _
+3,CAR MODELS,acura,a _ _ _ _,,CAR MODELS,acura,a _ _ _ _
+3,COUNTRIES,ireland,i _ _ _ _ _ _,,COUNTRIES,ireland,i _ _ _ _ _ _
+3,VEGETABLES,eggplant,e _ _ _ _ _ _ _,,VEGETABLES,eggplant,e _ _ _ _ _ _ _
+3,ELEMENTS,magnesium,m _ _ _ _ _ _ _ _,,ELEMENTS,magnesium,m _ _ _ _ _ _ _ _
+3,SCIENCES,oceanography,o _ _ _ _ _ _ _ _ _ _ _,,SCIENCES,oceanography,o _ _ _ _ _ _ _ _ _ _ _
+3,FISH,swordfish,s _ _ _ _ _ _ _ _,,FISH,swordfish,s _ _ _ _ _ _ _ _
+3,GIRL NAMES,kristen,k _ _ _ _ _ _,,,,
+3,MEMBERS OF THE CLERGY,vicar,v _ _ _ _,,,,
+4,FLOWERS,gladiola,g _ _ _ _ _ _ _,,,,
+4,COLLEGES,university of michigan,u _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _,,,,
+4,BOY NAMES,greg,g _ _ _,,,,
+4,FOOTBALL TEAMS,giants,g _ _ _ _ _,,,,
+4,GIRL NAMES,katherine,k _ _ _ _ _ _ _ _,,,,
+4,BIRDS,ostrich,o _ _ _ _ _ _,,BIRDS,ostrich,o _ _ _ _ _ _
+4,INSECTS,hornet,h _ _ _ _ _,,INSECTS,hornet,h _ _ _ _ _
+4,COUNTRIES,japan,j _ _ _ _,,COUNTRIES,japan,j _ _ _ _
+4,BUILDING PARTS,rafters,r _ _ _ _ _ _,,BUILDING PARTS,rafters,r _ _ _ _ _ _
+4,READING MATERIALS,encyclopedia,e _ _ _ _ _ _ _ _ _ _ _,,READING MATERIALS,encyclopedia,e _ _ _ _ _ _ _ _ _ _ _
+4,KITCHEN TOOLS,ladle,l _ _ _ _,,KITCHEN TOOLS,ladle,l _ _ _ _
+4,ELEMENTS,copper,c _ _ _ _ _,,ELEMENTS,copper,c _ _ _ _ _
+4,FABRICS,nylon,n _ _ _ _,,FABRICS,nylon,n _ _ _ _
+4,SHIPS,dinghy,d _ _ _ _ _,,SHIPS,dinghy,d _ _ _ _ _
+4,TREES,willow,w _ _ _ _ _,,TREES,willow,w _ _ _ _ _
+4,CARPENTRY TOOLS,sander,s _ _ _ _ _,,CARPENTRY TOOLS,sander,s _ _ _ _ _
+4,FRUIT,papaya,p _ _ _ _ _,,FRUIT,papaya,p _ _ _ _ _
+4,GEOGRAPHY TERMS,valley,v _ _ _ _ _,,GEOGRAPHY TERMS,valley,v _ _ _ _ _
+4,FOUR-FOOTED ANIMALS,fox,f _ _,,FOUR-FOOTED ANIMALS,fox,f _ _
+4,TRANSPORTATION,tractor,t _ _ _ _ _ _,,TRANSPORTATION,tractor,t _ _ _ _ _ _
+4,CITIES,boston,b _ _ _ _ _,,CITIES,boston,b _ _ _ _ _
+4,SCIENCES,archaeology,a _ _ _ _ _ _ _ _ _ _,,SCIENCES,archaeology,a _ _ _ _ _ _ _ _ _ _
+4,COLORS,mauve,m _ _ _ _,,COLORS,mauve,m _ _ _ _
+4,FOOTWEAR,galoshes,g _ _ _ _ _ _ _,,,,
+4,PARTS OF SPEECH,interjection,i _ _ _ _ _ _ _ _ _ _ _,,,,
